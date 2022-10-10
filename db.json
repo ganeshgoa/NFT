@@ -1,10 +1,10 @@
 {
-	    "tokens": [
-		        {
-				      "id": 0,
-				            "description": "My collection",
-					          "external_url": "https://github.com/ganeshgoa/NFT",
-						        "image": "https://bafkreihfljezutxiipbo32s4bqgraovcb2mrrz6d5lebpzb7xqb553s4yq.ipfs.nftstorage.link/",
-							      "name": "Gorilla"
-							          }
+	"tokens": [
+	{
+		"id": 0,
+		"description": "My collection",
+		"external_url": "https://github.com/ganeshgoa/NFT",
+		"image": "https://bafkreihfljezutxiipbo32s4bqgraovcb2mrrz6d5lebpzb7xqb553s4yq.ipfs.nftstorage.link/",
+		"name": "Gorilla"
+	}
 }
